@@ -1,0 +1,4 @@
+gastos.csv
+venv/
+__pycache__/
+copy gastos.csv gastos_ejemplo.csv
